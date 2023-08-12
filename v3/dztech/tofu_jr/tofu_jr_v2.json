@@ -1,9 +1,9 @@
 {
-  "name": "TOFU_JR",
+  "name": "TOFU_JR_V2",
   "vendorId": "0x445A",
-  "productId": "0x1426",
+  "productId": "0x1425",
   "keycodes": ["qmk_lighting"],
-  "menus": ["qmk_rgb_matrix"],
+  "menus": ["qmk_rgblight"],
   "matrix": {
     "rows": 5,
     "cols": 15
